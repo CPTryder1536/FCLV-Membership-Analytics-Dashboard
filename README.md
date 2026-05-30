@@ -216,11 +216,11 @@ Analysis of the synthetic dataset revealed several notable patterns:
 
 ### Executive Overview Dashboard
 
-*Insert executive-overview.png*
+![Executive Overview Dashboard](screenshots/executive-overview.png)
 
 ### Fan Engagement Dashboard
 
-*Insert fan-engagement-dashboard.png*
+![Fan Engagement Dashboard](screenshots/fan-engagement-dashboard.png)
 
 ---
 
