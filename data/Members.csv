@@ -1,0 +1,501 @@
+MemberID,FirstName,LastName,Email,Segment,SeatType,JoinDate,MembershipStatus,RenewalStatus,AccountRep
+MEM0001,Raul,Lopez,raul.lopez1@example.com,Premium,Premium Deck,2025-05-21,Active,Renewed,Chris Alvarez
+MEM0002,Elena,Rodriguez,elena.rodriguez2@example.com,Premium,Sideline,2022-04-04,Active,Renewed,Maya Collins
+MEM0003,Liam,Thomas,liam.thomas3@example.com,Premium,Suite,2025-10-31,Active,Renewed,Jared Lindsey
+MEM0004,Luis,Taylor,luis.taylor4@example.com,Corporate,Sideline,2023-04-15,Active,Renewed,Jared Lindsey
+MEM0005,Riley,Anderson,riley.anderson5@example.com,Premium,Premium Deck,2022-10-13,Active,Renewed,Maya Collins
+MEM0006,Diego,Hill,diego.hill6@example.com,Premium,Premium Deck,2022-11-10,Active,Renewed,Maya Collins
+MEM0007,Riley,Sanchez,riley.sanchez7@example.com, Premium ,Premium Deck,2025-01-04,Active,Renewed,Chris Alvarez
+MEM0008,devin,Lewis,devin.lewis8@example.com,Premium,Premium Deck,2025-07-04,Active,Renewed,Chris Alvarez
+MEM0009,Reese,Hernandez,reese.hernandez9@example.com,Premium,Premium Deck,2024-01-14,Active,Renewed,Chris Alvarez
+MEM0010,Maya,Miller,maya.miller10@example.com,Family,Reserved,2023-06-27,Active,Renewed,Daniel Reyes
+MEM0011,Skyler,Scott,skyler.scott11@example.com,Premium,Premium Deck,2023-05-23,Active,Renewed,Maya Collins
+MEM0012,natalia,Thomas,natalia.thomas12@example.com, Family ,Reserved,2023-07-25,Active,Renewed,Tina Brooks
+MEM0013,Emma,Nguyen,emma.nguyen13@example.com,Family,Reserved,2026-02-02,Active,Renewed,Jared Lindsey
+MEM0014,Cameron,Jones,cameron.jones14@example.com,Corporate,Suite,2023-05-27,Active,Renewed,Jared Lindsey
+MEM0015,Natalia,Davis,natalia.davis15@example.com,Individual,Sideline,2023-03-14,Active,Renewed,Tina Brooks
+MEM0016,Jordan,Sanchez,jordan.sanchez16@example.com,Supporters Club,General Admission,2022-11-14,Active,Renewed,Maya Collins
+MEM0017,Aaliyah,Carter,aaliyah.carter17@example.com,Individual,Premium Deck,2022-06-14,Active,Pending,Maya Collins
+MEM0018,Ethan,Taylor,ethan.taylor18@example.com,FAMILY,Reserved,2025-03-03,Lapsed,Not Renewed,Daniel Reyes
+MEM0019,Brianna,Campbell,brianna.campbell19@example.com,Individual,general admission,2025-02-27,Active,Pending,Jared Lindsey
+MEM0020,Andre,Martinez,andre.martinez20@example.com,Family,Reserved,2025-09-01,Active,Renewed,Daniel Reyes
+MEM0021,Malik,Baker,malik.baker21@example.com,Family,General Admission,2023-12-04,Lapsed,Not Renewed,Maya Collins
+MEM0022,Gabriela,Allen,gabriela.allen22@example.com,Corporate,Suite,2023-06-21,Active,Renewed,Maya Collins
+MEM0023,VALERIA,Torres,valeria.torres23@example.com,Premium,Sideline,2022-10-31,Active,Renewed,Tina Brooks
+MEM0024,Mason,Brown,mason.brown24@example.com,Family,Reserved,2022-11-13,Active,Renewed,Maya Collins
+MEM0025,raul,Gonzalez,raul.gonzalez25@example.com,Premium,Suite,2023-07-01,Active,Renewed,Maya Collins
+MEM0026,Ethan,Brown,ethan.brown26@example.com,Premium,Premium Deck,2023-01-31,Active,Renewed,Tina Brooks
+MEM0027,Mia,Gomez,mia.gomez27@example.com,Individual,Sideline,2023-01-01,Active,Renewed,Daniel Reyes
+MEM0028,Cameron,Flores,cameron.flores28@example.com,Supporters Club,General Admission,2025-12-22,Active,Renewed,Tina Brooks
+MEM0029,Elena,Hall,elena.hall29@example.com,Family,General Admission,2022-09-13,Active,Renewed,Chris Alvarez
+MEM0030,Isaiah,Clark,isaiah.clark30@example.com,Individual,Reserved,2024-04-11,Active,Pending,Daniel Reyes
+MEM0031,Skyler,Lewis,skyler.lewis31@example.com,Premium,Premium Deck,2022-12-14,Active,Renewed,Jared Lindsey
+MEM0032,Simone,Thompson,simone.thompson32@example.com,Individual,Reserved,2025-06-05,Active,Renewed,Jared Lindsey
+MEM0033,Maya,Wilson,maya.wilson33@example.com,Individual,Sideline,2024-05-20,Lapsed,Not Renewed,Maya Collins
+MEM0034,Ana,Walker,ana.walker34@example.com,Family,Premium Deck,2024-06-25,Active,Renewed,Daniel Reyes
+MEM0035,Valeria,Torres,valeria.torres35@example.com,Premium,Suite,2024-09-19,Active,Renewed,Maya Collins
+MEM0036,Devin,Taylor,devin.taylor36@example.com,Family,Reserved,2024-04-14,Active,Renewed,Chris Alvarez
+MEM0037,Skyler,ramirez,skyler.ramirez37@example.com,Individual,General Admission,2023-09-04,Active,Renewed,Tina Brooks
+MEM0038,Camila,Scott,camila.scott38@example.com,Premium,Suite,2025-10-22,Active,Renewed,Tina Brooks
+MEM0039,Olivia,Martinez,olivia.martinez39@example.com,Premium,Sideline,2023-01-08,Active,Renewed,Jared Lindsey
+MEM0040,Lucia,Perez,lucia.perez40@example.com,Family,Reserved,2022-04-17,Active,Pending,Chris Alvarez
+MEM0041,mia,Nelson,mia.nelson41@example.com,Family,Reserved,2023-03-23,Active,Renewed,Tina Brooks
+MEM0042,Quinn,Flores,quinn.flores42@example.com,Corporate,Suite,2025-10-19,Active,Renewed,Tina Brooks
+MEM0043,Riley,Hill,riley.hill43@example.com,Individual,Reserved,2022-03-26,Active,Renewed,Chris Alvarez
+MEM0044,riley,King,riley.king44@example.com,Individual,Reserved,2022-11-10,Active,Renewed,Tina Brooks
+MEM0045,Jasmine,Jackson,jasmine.jackson45@example.com,Family,Sideline,2022-06-27,Active,Renewed,Chris Alvarez
+MEM0046,Lucia,NGUYEN,lucia.nguyen46@example.com,Supporters Club,General Admission,2023-11-29,Active,Renewed,Chris Alvarez
+MEM0047,MARCUS,Torres,marcus.torres47@example.com,Supporters Club,Reserved,2025-08-15,Active,Renewed,Tina Brooks
+MEM0048,Devin,Thomas,devin.thomas48@example.com,Individual,General Admission,2023-12-22,Lapsed,Not Renewed,Tina Brooks
+MEM0049,Drew,Mitchell,drew.mitchell49@example.com,Family,Reserved,2024-12-10,Lapsed,Not Renewed,Daniel Reyes
+MEM0050,Reese,MARTIN,reese.martin50@example.com,Individual,General Admission,2025-11-29,Lapsed,Not Renewed,Maya Collins
+MEM0051,Cameron,Johnson,cameron.johnson51@example.com,Corporate,Suite,2024-03-31,Active,Renewed,Tina Brooks
+MEM0052,Alex,Hernandez,alex.hernandez52@example.com,Family,Sideline,2023-04-08,Active,Renewed,Daniel Reyes
+MEM0053,Malik,Hill,malik.hill53@example.com,Individual,Sideline,2025-09-14,Active,Pending,Jared Lindsey
+MEM0054,RILEY,Lopez,riley.lopez54@example.com,Family,Reserved,2024-07-18,Active,Renewed,Jared Lindsey
+MEM0055,Oscar,Adams,oscar.adams55@example.com,Corporate,Suite,2022-05-03,Active,Renewed,Maya Collins
+MEM0056,Victor,Nguyen,victor.nguyen56@example.com,Premium,Sideline,2025-05-09,Active,Renewed,Jared Lindsey
+MEM0057,NIA,Moore,nia.moore57@example.com,Supporters Club,Reserved,2023-07-06,Active,Renewed,Daniel Reyes
+MEM0058,Mariana,Wright,mariana.wright58@example.com,Family,General Admission,2023-11-14,Lapsed,Not Renewed,Chris Alvarez
+MEM0059,Elijah,Ramirez,elijah.ramirez59@example.com,Corporate,Suite,2024-04-07,Active,Renewed,Daniel Reyes
+MEM0060,Ethan,Scott,ethan.scott60@example.com,Premium,Premium Deck,2022-09-26,Active,Renewed,Chris Alvarez
+MEM0061,Drew,Williams,drew.williams61@example.com,Individual,Reserved,2022-08-21,Lapsed,Not Renewed,Tina Brooks
+MEM0062,Parker,Allen,parker.allen62@example.com,Supporters Club,General Admission,2023-01-26,Active,Renewed,Daniel Reyes
+MEM0063,Ethan,Garcia,ethan.garcia63@example.com,Individual,Sideline,2025-04-17,Active,Renewed,Daniel Reyes
+MEM0064,Parker,Robinson,parker.robinson64@example.com,Supporters Club,General Admission,2025-03-17,Active,Renewed,Tina Brooks
+MEM0065,Morgan,Perez,morgan.perez65@example.com,Family,General Admission,2022-03-17,Lapsed,Not Renewed,Maya Collins
+MEM0066,Ethan,Davis,ethan.davis66@example.com,Individual,Reserved,2024-08-19,Active,Renewed,Chris Alvarez
+MEM0067,Jasmine,Miller,jasmine.miller67@example.com,Individual,Reserved,2022-03-15,Active,Renewed,Daniel Reyes
+MEM0068,Olivia,Martin,olivia.martin68@example.com,Family,Sideline,2022-03-01,Active,Renewed,Jared Lindsey
+MEM0069,Darius,Harris,darius.harris69@example.com,Individual,General Admission,2025-10-31,Active,Pending,Maya Collins
+MEM0070,Dakota,Walker,dakota.walker70@example.com,Individual,Reserved,2023-12-09,Active,Renewed,Daniel Reyes
+MEM0071,Carlos,Moore,carlos.moore71@example.com,Individual,Premium Deck,2025-12-03,Active,Renewed,Chris Alvarez
+MEM0072,SOFIA,Jackson,sofia.jackson72@example.com,Family,General Admission,2023-08-10,Lapsed,Not Renewed,Maya Collins
+MEM0073,Tiana,Wilson,tiana.wilson73@example.com,Corporate,Premium Deck,2023-09-25,Active,Renewed,Tina Brooks
+MEM0074,Avery,Miller,avery.miller74@example.com,Family,Reserved,2023-07-13,Active,Pending,Maya Collins
+MEM0075,Mariana,Martin,mariana.martin75@example.com,Family,General Admission,2024-03-24,Lapsed,Not Renewed,Daniel Reyes
+MEM0076,Jordan,Moore,jordan.moore76@example.com,Individual,Reserved,2023-04-24,Active,Renewed,Tina Brooks
+MEM0077,Natalia,Perez,natalia.perez77@example.com,Family,General Admission,2022-03-18,Lapsed,Not Renewed,Chris Alvarez
+MEM0078,Jalen,Scott,jalen.scott78@example.com,Supporters Club,General Admission,2024-04-29,Active,Renewed,Jared Lindsey
+MEM0079,AVA,Jackson,ava.jackson79@example.com,Premium,Sideline,2025-01-20,Active,Renewed,Chris Alvarez
+MEM0080,Mia,Rodriguez,mia.rodriguez80@example.com,Family,Reserved,2022-09-15,Active,Renewed,Daniel Reyes
+MEM0081,Natalia,Anderson,natalia.anderson81@example.com,Family,General Admission,2022-09-24,Lapsed,Not Renewed,Daniel Reyes
+MEM0082,Brianna,Williams,brianna.williams82@example.com,FAMILY,Reserved,2024-05-12,Active,Renewed,Daniel Reyes
+MEM0083,Isabella,Gomez,isabella.gomez83@example.com,Family,Reserved,2023-09-10,Active,Renewed,Tina Brooks
+MEM0084,Mariana,Clark,mariana.clark84@example.com,Corporate,Sideline,2025-07-02,Active,Renewed,Daniel Reyes
+MEM0085,Nia,Wright,nia.wright85@example.com,Individual,General Admission,2023-03-17,Active,Renewed,Tina Brooks
+MEM0086,Elijah,Walker,elijah.walker86@example.com,Individual,General Admission,2022-07-06,Lapsed,Not Renewed,Jared Lindsey
+MEM0087,Diego,Harris,diego.harris87@example.com,Family,Reserved,2024-05-16,Active,Renewed,Jared Lindsey
+MEM0088,Darius,Davis,darius.davis88@example.com,Supporters Club,General Admission,2025-03-21,Active,Renewed,Maya Collins
+MEM0089,Javier,GREEN,javier.green89@example.com,Premium,Sideline,2025-12-10,Active,Renewed,Chris Alvarez
+MEM0090,Jamie,Hernandez,jamie.hernandez90@example.com,SUPPORTERS CLUB,General Admission,2024-05-09,Active,Renewed,Tina Brooks
+MEM0091,Luis,Perez,luis.perez91@example.com,Individual,General Admission,2025-09-17,Active,Renewed,Tina Brooks
+MEM0092,Marcus,Anderson,marcus.anderson92@example.com,Individual,General Admission,2024-03-20,Lapsed,Not Renewed,Daniel Reyes
+MEM0093,Ava,Anderson,ava.anderson93@example.com,Family,Reserved,2023-04-17,Lapsed,Not Renewed,Daniel Reyes
+MEM0094,Darius,Garcia,darius.garcia94@example.com,Individual,Reserved,2025-08-04,Active,Renewed,Tina Brooks
+MEM0095,Mia,Perez,mia.perez95@example.com,Individual,General Admission,2024-03-31,Active,Renewed,Daniel Reyes
+MEM0096,Diego,Thompson,diego.thompson96@example.com,Family,General Admission,2025-08-14,Lapsed,Not Renewed,Maya Collins
+MEM0097,Reese,Gonzalez,reese.gonzalez97@example.com,Family,Reserved,2024-07-08,Active,Renewed,Daniel Reyes
+MEM0098,Isaiah,Adams,isaiah.adams98@example.com,Corporate,Suite,2024-08-03,Active,Renewed,Tina Brooks
+MEM0099,Devin,Garcia,devin.garcia99@example.com,Family,Reserved,2022-03-26,Active,Renewed,Tina Brooks
+MEM0100,Reese,Perez,reese.perez100@example.com,Supporters Club,General Admission,2025-08-16,Active,Renewed,Maya Collins
+MEM0101,Isabella,Wright,isabella.wright101@example.com,Family,Sideline,2025-08-18,Active,Pending,Chris Alvarez
+MEM0102,Hector,Sanchez,hector.sanchez102@example.com,Family,Reserved,2023-12-18,Active,Pending,Chris Alvarez
+MEM0103,Sofia,Martinez,sofia.martinez103@example.com,Supporters Club,General Admission,2025-11-04,Active,Renewed,Daniel Reyes
+MEM0104,GABRIELA,Harris,gabriela.harris104@example.com,Family,Sideline,2022-11-14,Active,Renewed,Jared Lindsey
+MEM0105,Gabriela,Gomez,gabriela.gomez105@example.com,Individual,Reserved,2023-01-06,Lapsed,Not Renewed,Daniel Reyes
+MEM0106,Isabella,Brown,isabella.brown106@example.com,Premium,Premium Deck,2023-09-26,Active,Renewed,Tina Brooks
+MEM0107,Hector,Nguyen,hector.nguyen107@example.com,Supporters Club,General Admission,2022-10-11,Active,Renewed,Chris Alvarez
+MEM0108,Miles,Torres,miles.torres108@example.com,Family,Sideline,2024-06-14,Active,Renewed,Jared Lindsey
+MEM0109,Isabella,White,isabella.white109@example.com,Supporters Club,General Admission,2022-07-22,Active,Renewed,Chris Alvarez
+MEM0110,Devin,Young,devin.young110@example.com,PREMIUM,Premium Deck,2022-11-03,Active,Renewed,Daniel Reyes
+MEM0111,Valeria,Rodriguez,valeria.rodriguez111@example.com,Supporters Club,General Admission,2024-10-20,Active,Pending,Daniel Reyes
+MEM0112,Maya,TAYLOR,maya.taylor112@example.com,Individual,Reserved,2024-12-08,Lapsed,Not Renewed,Chris Alvarez
+MEM0113,Gabriela,King,gabriela.king113@example.com,Family,Sideline,2023-12-08,Active,Renewed,Maya Collins
+MEM0114,Javier,Hill,javier.hill114@example.com,Premium,Sideline,2025-11-25,Active,Renewed,Tina Brooks
+MEM0115,Riley,Campbell,riley.campbell115@example.com,Corporate,Suite,2025-01-17,Active,Renewed,Tina Brooks
+MEM0116,Reese,Martin,reese.martin116@example.com,Family,General Admission,2024-03-02,Active,Renewed,Chris Alvarez
+MEM0117,Daniela,Harris,daniela.harris117@example.com,Supporters Club,General Admission,2023-10-20,Active,Renewed,Jared Lindsey
+MEM0118,Malik,Robinson,malik.robinson118@example.com,Family,Sideline,2023-07-17,Active,Renewed,Jared Lindsey
+MEM0119,Miles,King,miles.king119@example.com,Family,Sideline,2025-08-14,Active,Renewed,Chris Alvarez
+MEM0120,Morgan,Flores,morgan.flores120@example.com,Individual,Sideline,2023-07-25,Lapsed,Not Renewed,Maya Collins
+MEM0121,Jamie,Allen,jamie.allen121@example.com,Supporters Club,General Admission,2024-10-02,Active,Renewed,Maya Collins
+MEM0122,Isabella,Gonzalez,isabella.gonzalez122@example.com,Family,General Admission,2025-01-15,Active,Renewed,Chris Alvarez
+MEM0123,Miguel,Campbell,miguel.campbell123@example.com,Supporters Club,Reserved,2022-02-23,Active,Pending,Chris Alvarez
+MEM0124,Raul,Torres,raul.torres124@example.com,Individual,General Admission,2025-03-23,Active,Renewed,Jared Lindsey
+MEM0125,Riley,Robinson,riley.robinson125@example.com,Family,Reserved,2024-10-26,Active,Pending,Jared Lindsey
+MEM0126,Malik,Lopez,malik.lopez126@example.com,Premium,Premium Deck,2025-02-02,Active,Renewed,Chris Alvarez
+MEM0127,Elena,Miller,elena.miller127@example.com,Family,Reserved,2025-02-28,Lapsed,Not Renewed,Jared Lindsey
+MEM0128,Morgan,Nelson,morgan.nelson128@example.com, Premium ,Premium Deck,2025-08-07,Active,Renewed,Chris Alvarez
+MEM0129,Hector,Clark,hector.clark129@example.com,Individual,Sideline,2026-01-11,Lapsed,Not Renewed,Chris Alvarez
+MEM0130,Sofia,Martinez,sofia.martinez130@example.com,Premium,Suite,2024-02-26,Active,Renewed,Daniel Reyes
+MEM0131,Mason,Lopez,mason.lopez131@example.com,Individual,Premium Deck,2024-10-15,Active,Renewed,Jared Lindsey
+MEM0132,Lucia,Taylor,lucia.taylor132@example.com,Family,Reserved,2022-08-09,Lapsed,Not Renewed,Tina Brooks
+MEM0133,Miles,Roberts,miles.roberts133@example.com,Family,Reserved,2025-01-31,Active,Renewed,Chris Alvarez
+MEM0134,Simone,Rodriguez,simone.rodriguez134@example.com,Premium,Sideline,2024-04-02,Active,Renewed,Daniel Reyes
+MEM0135,Miguel,Thompson,miguel.thompson135@example.com,Family,Reserved,2025-06-16,Lapsed,Not Renewed,Chris Alvarez
+MEM0136,Gabriela,scott,gabriela.scott136@example.com,Corporate,Premium Deck,2026-01-25,Active,Renewed,Jared Lindsey
+MEM0137,Jasmine,Gomez,jasmine.gomez137@example.com,Corporate,Sideline,2025-10-26,Active,Renewed,Maya Collins
+MEM0138,DREW,Wilson,drew.wilson138@example.com,Family,General Admission,2026-01-29,Active,Pending,Jared Lindsey
+MEM0139,Natalia,Perez,natalia.perez139@example.com,Corporate,Premium Deck,2026-01-16,Active,Renewed,Chris Alvarez
+MEM0140,Jalen,Jackson,jalen.jackson140@example.com,Corporate,Sideline,2023-12-16,Active,Renewed,Daniel Reyes
+MEM0141,Marcus,Martin,marcus.martin141@example.com,Supporters Club,Reserved,2023-08-13,Active,Renewed,Jared Lindsey
+MEM0142,Andre,Carter,andre.carter142@example.com,Individual,General Admission,2023-05-12,Active,Renewed,Jared Lindsey
+MEM0143,Tiana,Thomas,tiana.thomas143@example.com, Corporate ,Premium Deck,2024-04-13,Active,Pending,Tina Brooks
+MEM0144,Mia,Martin,mia.martin144@example.com,Individual,General Admission,2022-12-25,Lapsed,Not Renewed,Tina Brooks
+MEM0145,Olivia,Brown,olivia.brown145@example.com,Supporters Club,general admission,2025-05-19,Active,Renewed,Jared Lindsey
+MEM0146,Lucia,Nelson,lucia.nelson146@example.com,Supporters Club,General Admission,2024-07-28,Active,Renewed,Chris Alvarez
+MEM0147,Elijah,Martin,elijah.martin147@example.com,Corporate,Sideline,2025-10-02,Active,Pending,Jared Lindsey
+MEM0148,ISAIAH,Taylor,isaiah.taylor148@example.com,Family,Reserved,2023-06-20,Active,Renewed,Chris Alvarez
+MEM0149,Drew,Walker,drew.walker149@example.com,Corporate,Sideline,2023-08-28,Active,Renewed,Chris Alvarez
+MEM0150,Avery,Young,avery.young150@example.com,Corporate,Sideline,2023-03-24,Lapsed,Not Renewed,Maya Collins
+MEM0151,Oscar,Miller,oscar.miller151@example.com,Corporate,Premium Deck,2025-01-04,Active,Renewed,Maya Collins
+MEM0152,Isabella,Rodriguez,isabella.rodriguez152@example.com,Family,General Admission,2025-02-28,Active,Renewed,Jared Lindsey
+MEM0153,MALIK,mitchell,malik.mitchell153@example.com,Individual,Reserved,2025-01-13,Active,Renewed,Jared Lindsey
+MEM0154,EMMA,Young,emma.young154@example.com,Supporters Club,General Admission,2024-02-23,Active,Renewed,Tina Brooks
+MEM0155,Dante,Miller,dante.miller155@example.com,Premium,Suite,2026-01-30,Active,Renewed,Maya Collins
+MEM0156,Malik,Walker,malik.walker156@example.com,Premium,Sideline,2026-01-24,Active,Renewed,Jared Lindsey
+MEM0157,Simone,Gomez,simone.gomez157@example.com,Family,Sideline,2023-05-17,Active,Renewed,Jared Lindsey
+MEM0158,Skyler,Roberts,skyler.roberts158@example.com,Individual,General Admission,2025-10-09,Lapsed,Not Renewed,Chris Alvarez
+MEM0159,Brianna,Wright,brianna.wright159@example.com,Family,General Admission,2024-10-12,Active,Renewed,Jared Lindsey
+MEM0160,Brianna,Sanchez,brianna.sanchez160@example.com,Supporters Club,Reserved,2023-09-08,Active,Renewed,Maya Collins
+MEM0161,Natalia,Ramirez,natalia.ramirez161@example.com,Premium,Suite,2022-07-09,Active,Renewed,Daniel Reyes
+MEM0162,Marcus,Sanchez,marcus.sanchez162@example.com,Premium,Premium Deck,2023-11-13,Active,Renewed,Chris Alvarez
+MEM0163,Emma,Wilson,emma.wilson163@example.com,Supporters Club,General Admission,2025-02-04,Active,Renewed,Chris Alvarez
+MEM0164,Elena,Nelson,elena.nelson164@example.com,Premium,Premium Deck,2023-02-21,Active,Renewed,Chris Alvarez
+MEM0165,ethan,Thomas,ethan.thomas165@example.com,Individual,General Admission,2025-03-12,Active,Pending,Maya Collins
+MEM0166,Hector,Thompson,hector.thompson166@example.com,Individual,Reserved,2026-01-15,Active,Pending,Daniel Reyes
+MEM0167,Elena,Nelson,elena.nelson167@example.com,Individual,Sideline,2025-07-15,Active,Renewed,Maya Collins
+MEM0168,Skyler,King,skyler.king168@example.com,Family,Reserved,2024-04-22,Active,Renewed,Jared Lindsey
+MEM0169,ELENA,Martin,elena.martin169@example.com,Family,Sideline,2022-11-01,Lapsed,Not Renewed,Maya Collins
+MEM0170,Victor,White,victor.white170@example.com,Family,Sideline,2022-06-15,Active,Renewed,Jared Lindsey
+MEM0171,natalia,Young,natalia.young171@example.com,Family,Reserved,2022-07-15,Lapsed,Not Renewed,Daniel Reyes
+MEM0172,Mason,Rivera,mason.rivera172@example.com,Supporters Club,General admission,2022-02-02,Active,Renewed,Maya Collins
+MEM0173,Miguel,Clark,miguel.clark173@example.com,Corporate,Suite,2022-10-14,Lapsed,Not Renewed,Jared Lindsey
+MEM0174,Alex,Davis,alex.davis174@example.com,Individual,Premium Deck,2023-07-14,Active,Renewed,Tina Brooks
+MEM0175,Ava,Sanchez,ava.sanchez175@example.com,Individual,General Admission,2022-11-12,Active,Renewed,Tina Brooks
+MEM0176,Diego,SANCHEZ,diego.sanchez176@example.com,Corporate,Premium Deck,2023-01-19,Active,Renewed,Tina Brooks
+MEM0177,CAMILA,Davis,camila.davis177@example.com,Individual,Reserved,2024-03-05,Lapsed,Not Renewed,Jared Lindsey
+MEM0178,Jalen,Nguyen,jalen.nguyen178@example.com,Premium,Sideline,2023-09-06,Active,Renewed,Tina Brooks
+MEM0179,Ava,Taylor,ava.taylor179@example.com, Premium ,Premium Deck,2024-02-18,Active,Renewed,Chris Alvarez
+MEM0180,Victor,Nelson,victor.nelson180@example.com,Individual,General Admission,2023-08-20,Active,Pending,Tina Brooks
+MEM0181,Isaiah,Sanchez,isaiah.sanchez181@example.com,Supporters Club,Reserved,2022-02-25,Active,Pending,Tina Brooks
+MEM0182,Raul,Martin,raul.martin182@example.com,Supporters Club,General Admission,2022-11-12,Active,Renewed,Tina Brooks
+MEM0183,Nia,Young,nia.young183@example.com, Premium ,Premium Deck,2025-01-04,Active,Renewed,Daniel Reyes
+MEM0184,Javier,Taylor,javier.taylor184@example.com,Corporate,Sideline,2024-05-31,Active,Renewed,Jared Lindsey
+MEM0185,Gabriela,Carter,gabriela.carter185@example.com,Family,Reserved,2023-12-08,Active,Renewed,Jared Lindsey
+MEM0186,Olivia,Miller,olivia.miller186@example.com,Individual,General Admission,2024-06-16,Active,Renewed,Tina Brooks
+MEM0187,Raul,Campbell,raul.campbell187@example.com,Individual,General Admission,2022-11-24,Lapsed,Not Renewed,Chris Alvarez
+MEM0188,Dakota,Clark,dakota.clark188@example.com,Individual,Premium Deck,2022-01-10,Active,Pending,Maya Collins
+MEM0189,Raul,Garcia,raul.garcia189@example.com,Family,General Admission,2025-08-01,Active,Renewed,Chris Alvarez
+MEM0190,Aaliyah,Rodriguez,aaliyah.rodriguez190@example.com,Corporate,Premium Deck,2022-10-02,Active,Renewed,Chris Alvarez
+MEM0191,Jamie,Harris,jamie.harris191@example.com,Family,Reserved,2025-08-14,Active,Renewed,Maya Collins
+MEM0192,Avery,Gonzalez,avery.gonzalez192@example.com,INDIVIDUAL,Reserved,2025-02-24,Lapsed,Not Renewed,Daniel Reyes
+MEM0193,Daniela,Ramirez,daniela.ramirez193@example.com,Corporate,Premium deck,2025-01-06,Active,Renewed,Chris Alvarez
+MEM0194,Diego,Gomez,diego.gomez194@example.com,Family,Sideline,2022-03-27,Lapsed,Not Renewed,Tina Brooks
+MEM0195,Cameron,Carter,cameron.carter195@example.com,Individual,Premium Deck,2022-08-29,Active,Renewed,Maya Collins
+MEM0196,Carlos,White,carlos.white196@example.com,Family,Sideline,2024-12-26,Active,Pending,Chris Alvarez
+MEM0197,Miguel,Martin,miguel.martin197@example.com,Corporate,Sideline,2022-05-02,Active,Renewed,Chris Alvarez
+MEM0198,Ethan,Martinez,ethan.martinez198@example.com,Premium,Premium Deck,2024-04-28,Active,Renewed,Tina Brooks
+MEM0199,Logan,Gomez,logan.gomez199@example.com,Individual,Reserved,2026-02-09,Active,Renewed,Jared Lindsey
+MEM0200,Brianna,Rivera,brianna.rivera200@example.com,Premium,Premium Deck,2023-11-23,Active,Renewed,Daniel Reyes
+MEM0201,Daniela,Thompson,daniela.thompson201@example.com, Individual ,Reserved,2024-07-23,Active,Renewed,Jared Lindsey
+MEM0202,Carlos,Martinez,carlos.martinez202@example.com,Supporters Club,General Admission,2025-08-21,Active,Renewed,Maya Collins
+MEM0203,Luis,Rivera,luis.rivera203@example.com,Family,Sideline,2024-06-30,Active,Renewed,Jared Lindsey
+MEM0204,Drew,Lewis,drew.lewis204@example.com,Family,Reserved,2024-02-23,Active,Renewed,Maya Collins
+MEM0205,Riley,Wright,riley.wright205@example.com,Corporate,Premium Deck,2024-06-25,Active,Renewed,Maya Collins
+MEM0206,Mateo,Rodriguez,mateo.rodriguez206@example.com,Family,Reserved,2025-05-13,Active,Renewed,Daniel Reyes
+MEM0207,Taylor,Baker,taylor.baker207@example.com,Individual,Sideline,2023-05-06,Active,Pending,Tina Brooks
+MEM0208,Tiana,FLORES,tiana.flores208@example.com,Individual,General Admission,2024-05-11,Active,Renewed,Chris Alvarez
+MEM0209,Mariana,GOMEZ,mariana.gomez209@example.com,Individual,General Admission,2023-08-10,Active,Renewed,Daniel Reyes
+MEM0210,Sofia,Miller,sofia.miller210@example.com,Premium,Premium Deck,2023-11-01,Active,Renewed,Tina Brooks
+MEM0211,Jasmine,Hall,jasmine.hall211@example.com,Corporate,Suite,2025-06-07,Active,Renewed,Daniel Reyes
+MEM0212,brianna,carter,brianna.carter212@example.com,Family,Sideline,2023-06-15,Active,Renewed,Maya Collins
+MEM0213,Ethan,Jackson,ethan.jackson213@example.com,Individual,Reserved,2025-07-09,Active,Renewed,Jared Lindsey
+MEM0214,Alex,Allen,alex.allen214@example.com,Individual,Reserved,2022-01-06,Lapsed,Not Renewed,Jared Lindsey
+MEM0215,Morgan,Young,morgan.young215@example.com,PREMIUM,Premium Deck,2025-09-04,Active,Renewed,Tina Brooks
+MEM0216,Olivia,Mitchell,olivia.mitchell216@example.com,Family,Reserved,2022-04-05,Lapsed,Not Renewed,Tina Brooks
+MEM0217,Devin,gomez,devin.gomez217@example.com,Family,Sideline,2024-08-08,Lapsed,Not Renewed,Chris Alvarez
+MEM0218,Javier,Gomez,javier.gomez218@example.com,CORPORATE,Premium Deck,2023-12-11,Active,Renewed,Jared Lindsey
+MEM0219,Brianna,Sanchez,brianna.sanchez219@example.com,Supporters Club,General Admission,2025-12-28,Active,Renewed,Chris Alvarez
+MEM0220,Mason,Wright,mason.wright220@example.com,Family,General Admission,2025-04-27,Active,Renewed,Daniel Reyes
+MEM0221,Avery,Taylor,avery.taylor221@example.com,Family,Sideline,2023-02-20,Active,Pending,Maya Collins
+MEM0222,Parker,Davis,parker.davis222@example.com,Premium,Sideline,2022-09-03,Active,Renewed,Jared Lindsey
+MEM0223,Victor,Campbell,victor.campbell223@example.com,Family,Sideline,2025-10-18,Active,Renewed,Chris Alvarez
+MEM0224,Taylor,Clark,taylor.clark224@example.com,Family,Premium Deck,2023-04-01,Active,Renewed,Maya Collins
+MEM0225,Hector,Adams,hector.adams225@example.com,Family,Reserved,2022-09-21,Active,Renewed,Jared Lindsey
+MEM0226,Elijah,Rodriguez,elijah.rodriguez226@example.com,Supporters Club,Reserved,2022-12-20,Active,Renewed,Chris Alvarez
+MEM0227,marcus,Robinson,marcus.robinson227@example.com,Family,Reserved,2023-07-27,Active,Renewed,Tina Brooks
+MEM0228,Logan,wright,logan.wright228@example.com,Family,Reserved,2023-12-06,Active,Pending,Daniel Reyes
+MEM0229,Jamie,Williams,jamie.williams229@example.com,Individual,General Admission,2023-04-22,Active,Renewed,Maya Collins
+MEM0230,Marcus,Scott,marcus.scott230@example.com,Family,Sideline,2022-12-22,Active,Renewed,Maya Collins
+MEM0231,Diego,Rivera,diego.rivera231@example.com,Family,Reserved,2024-10-05,Active,Renewed,Daniel Reyes
+MEM0232,Casey,jones,casey.jones232@example.com,Individual,Reserved,2023-10-25,Lapsed,Not Renewed,Jared Lindsey
+MEM0233,Olivia,Hernandez,olivia.hernandez233@example.com,Family,Sideline,2023-09-11,Active,Renewed,Chris Alvarez
+MEM0234,Ava,Lewis,ava.lewis234@example.com,Family,Reserved,2023-04-03,Active,Renewed,Daniel Reyes
+MEM0235,Luis,RIVERA,luis.rivera235@example.com,Premium,Premium Deck,2025-03-08,Active,Renewed,Jared Lindsey
+MEM0236,Raul,Green,raul.green236@example.com,Family,Reserved,2022-07-01,Active,Renewed,Chris Alvarez
+MEM0237,Jalen,rivera,jalen.rivera237@example.com,Individual,General Admission,2024-10-06,Active,Renewed,Tina Brooks
+MEM0238,Noah,Young,noah.young238@example.com,Individual,General admission,2022-08-03,Lapsed,Not Renewed,Jared Lindsey
+MEM0239,Quinn,Mitchell,quinn.mitchell239@example.com,Individual,Sideline,2025-08-31,Active,Pending,Maya Collins
+MEM0240,Alex,Davis,alex.davis240@example.com,Corporate,Premium Deck,2022-07-16,Active,Renewed,Jared Lindsey
+MEM0241,daniela,Hernandez,daniela.hernandez241@example.com,Individual,Reserved,2025-07-31,Active,Renewed,Chris Alvarez
+MEM0242,Drew,Lee,drew.lee242@example.com,Supporters Club,General Admission,2023-01-18,Active,Renewed,Tina Brooks
+MEM0243,Andre,Thomas,andre.thomas243@example.com,Family,Reserved,2025-04-22,Active,Renewed,Maya Collins
+MEM0244,Victor,Wright,victor.wright244@example.com,Individual,Sideline,2026-01-02,Active,Renewed,Jared Lindsey
+MEM0245,Raul,Nguyen,raul.nguyen245@example.com,Individual,Sideline,2022-09-16,Active,Renewed,Jared Lindsey
+MEM0246,Valeria,Wilson,valeria.wilson246@example.com,Individual,Premium Deck,2024-03-24,Active,Renewed,Daniel Reyes
+MEM0247,Lucia,Johnson,lucia.johnson247@example.com,Individual,General Admission,2022-07-25,Active,Renewed,Jared Lindsey
+MEM0248,Devin,Scott,devin.scott248@example.com,Individual,General Admission,2025-06-20,Active,Renewed,Daniel Reyes
+MEM0249,Sofia,Thompson,sofia.thompson249@example.com,Corporate,Premium Deck,2024-10-03,Active,Renewed,Jared Lindsey
+MEM0250,Malik,Carter,malik.carter250@example.com,Supporters Club,General Admission,2024-09-19,Active,Pending,Daniel Reyes
+MEM0251,Gabriela,Lopez,gabriela.lopez251@example.com,Premium,Sideline,2023-02-16,Active,Renewed,Jared Lindsey
+MEM0252,Olivia,Harris,olivia.harris252@example.com,Family,Sideline,2025-05-01,Active,Renewed,Tina Brooks
+MEM0253,Aaliyah,Torres,aaliyah.torres253@example.com,Family,General Admission,2025-03-17,Active,Renewed,Maya Collins
+MEM0254,Hector,ANDERSON,hector.anderson254@example.com,Premium,Sideline,2025-08-18,Active,Renewed,Maya Collins
+MEM0255,Andre,Flores,andre.flores255@example.com,Corporate,Sideline,2024-08-13,Active,Renewed,Chris Alvarez
+MEM0256,Sofia,Hill,sofia.hill256@example.com,Corporate,Suite,2022-08-10,Lapsed,Not Renewed,Tina Brooks
+MEM0257,Tiana,Perez,tiana.perez257@example.com,Family,Premium Deck,2025-05-13,Active,Renewed,Tina Brooks
+MEM0258,Luis,Williams,luis.williams258@example.com, Corporate ,Premium Deck,2023-01-24,Active,Renewed,Chris Alvarez
+MEM0259,Elena,Adams,elena.adams259@example.com,Premium,Premium Deck,2022-07-19,Active,Renewed,Tina Brooks
+MEM0260,Raul,Torres,raul.torres260@example.com,Family,Reserved,2023-11-10,Active,Renewed,Chris Alvarez
+MEM0261,Liam,Rodriguez,liam.rodriguez261@example.com,Family,Reserved,2024-02-21,Active,Renewed,Daniel Reyes
+MEM0262,Liam,Hernandez,liam.hernandez262@example.com,Individual,General Admission,2022-06-15,Active,Pending,Tina Brooks
+MEM0263,Isaiah,Adams,isaiah.adams263@example.com,Individual,Premium Deck,2022-09-23,Lapsed,Not Renewed,Daniel Reyes
+MEM0264,valeria,Young,valeria.young264@example.com,INDIVIDUAL,General Admission,2023-01-26,Active,Pending,Jared Lindsey
+MEM0265,Jalen,Thomas,jalen.thomas265@example.com,Corporate,Premium Deck,2023-08-19,Lapsed,Not Renewed,Tina Brooks
+MEM0266,Elijah,Lewis,elijah.lewis266@example.com,Premium,Sideline,2024-04-06,Active,Renewed,Jared Lindsey
+MEM0267,Avery,Anderson,avery.anderson267@example.com, Family ,Sideline,2024-12-31,Active,Renewed,Daniel Reyes
+MEM0268,brianna,Davis,brianna.davis268@example.com,Family,Premium Deck,2025-11-24,Active,Renewed,Jared Lindsey
+MEM0269,Brianna,Wright,brianna.wright269@example.com,Individual,Reserved,2022-08-06,Lapsed,Not Renewed,Tina Brooks
+MEM0270,Andre,Wright,andre.wright270@example.com,Family,Reserved,2023-04-26,Active,Renewed,Jared Lindsey
+MEM0271,Drew,Nguyen,drew.nguyen271@example.com,Family,Reserved,2023-08-30,Lapsed,Not Renewed,Chris Alvarez
+MEM0272,Jamie,Brown,jamie.brown272@example.com,Individual,GA,2025-09-20,Lapsed,Not Renewed,Maya Collins
+MEM0273,Mia,Green,mia.green273@example.com,Individual,Sideline,2025-11-13,Active,Pending,Tina Brooks
+MEM0274,Raul,Lopez,raul.lopez274@example.com,Premium,Sideline,2025-10-21,Active,Renewed,Tina Brooks
+MEM0275,DARIUS,Green,darius.green275@example.com,Family,Reserved,2024-04-22,Active,Renewed,Tina Brooks
+MEM0276,Isaiah,Johnson,isaiah.johnson276@example.com,Family,Reserved,2024-12-07,Active,Renewed,Daniel Reyes
+MEM0277,Jalen,Young,jalen.young277@example.com,Family,Sideline,2022-11-18,Active,Pending,Daniel Reyes
+MEM0278,Ethan,Lopez,ethan.lopez278@example.com,Premium,Suite,2023-04-27,Active,Renewed,Jared Lindsey
+MEM0279,Isabella,Miller,isabella.miller279@example.com,Individual,Sideline,2022-01-01,Lapsed,Not Renewed,Jared Lindsey
+MEM0280,Tiana,Lee,tiana.lee280@example.com,Premium,Suite,2023-11-11,Active,Renewed,Daniel Reyes
+MEM0281,Miguel,Baker,miguel.baker281@example.com,PREMIUM,Sideline,2023-08-21,Active,Pending,Daniel Reyes
+MEM0282,Morgan,Lopez,morgan.lopez282@example.com,Individual,Reserved,2023-03-18,Active,Renewed,Tina Brooks
+MEM0283,Elijah,Davis,elijah.davis283@example.com,Premium,Premium Deck,2024-10-29,Active,Renewed,Maya Collins
+MEM0284,Diego,Jones,diego.jones284@example.com,Supporters Club,General Admission,2022-09-20,Active,Renewed,Jared Lindsey
+MEM0285,Logan,Perez,logan.perez285@example.com,Individual,Reserved,2024-07-16,Lapsed,Not Renewed,Maya Collins
+MEM0286,Logan,Carter,logan.carter286@example.com,Family,Sideline,2026-01-03,Active,Pending,Chris Alvarez
+MEM0287,Avery,Campbell,avery.campbell287@example.com,Corporate,Suite,2025-03-14,Active,Renewed,Tina Brooks
+MEM0288,Elena,MARTIN,elena.martin288@example.com,Corporate,Suite,2023-07-01,Lapsed,Not Renewed,Maya Collins
+MEM0289,Parker,jones,parker.jones289@example.com,Supporters Club,General Admission,2023-04-05,Active,Renewed,Daniel Reyes
+MEM0290,Oscar,Rivera,oscar.rivera290@example.com,Individual,Reserved,2022-01-27,Active,Renewed,Chris Alvarez
+MEM0291,Ethan,Robinson,ethan.robinson291@example.com,Family,General Admission,2023-02-01,Active,Renewed,Chris Alvarez
+MEM0292,Riley,Gonzalez,riley.gonzalez292@example.com,Individual,Premium Deck,2022-01-12,Active,Renewed,Chris Alvarez
+MEM0293,Morgan,Hernandez,morgan.hernandez293@example.com,Individual,Sideline,2022-05-30,Lapsed,Not Renewed,Chris Alvarez
+MEM0294,Ana,Garcia,ana.garcia294@example.com,Individual,Premium Deck,2023-08-25,Active,Pending,Maya Collins
+MEM0295,Mariana,TORRES,mariana.torres295@example.com,Supporters Club,General Admission,2025-06-26,Active,Renewed,Maya Collins
+MEM0296,Isaiah,Sanchez,isaiah.sanchez296@example.com,Supporters Club,General Admission,2024-11-07,Active,Renewed,Tina Brooks
+MEM0297,Jasmine,Wilson,jasmine.wilson297@example.com,Individual,General Admission,2025-07-13,Lapsed,Not Renewed,Maya Collins
+MEM0298,Cameron,Anderson,cameron.anderson298@example.com,Premium,Premium Deck,2024-07-29,Active,Renewed,Chris Alvarez
+MEM0299,Jamie,Moore,jamie.moore299@example.com,Family,Reserved,2025-10-10,Active,Renewed,Jared Lindsey
+MEM0300,Simone,Garcia,simone.garcia300@example.com,Individual,Reserved,2022-06-27,Active,Renewed,Chris Alvarez
+MEM0301,SOFIA,Baker,sofia.baker301@example.com,Premium,Premium Deck,2025-07-22,Active,Renewed,Maya Collins
+MEM0302,Mia,MITCHELL,mia.mitchell302@example.com,Individual,Sideline,2024-03-18,Active,Renewed,Daniel Reyes
+MEM0303,Skyler,Carter,skyler.carter303@example.com,Individual,General Admission,2023-06-02,Lapsed,Not Renewed,Maya Collins
+MEM0304,Maya,Jones,maya.jones304@example.com,Family,Sideline,2026-01-26,Active,Renewed,Daniel Reyes
+MEM0305,Avery,Baker,avery.baker305@example.com,Individual,General Admission,2025-04-11,Active,Renewed,Maya Collins
+MEM0306,Isaiah,Lewis,isaiah.lewis306@example.com,Individual,General Admission,2023-11-11,Active,Renewed,Tina Brooks
+MEM0307,Malik,Allen,malik.allen307@example.com,Individual,General Admission,2025-07-07,Active,Renewed,Jared Lindsey
+MEM0308,Liam,King,liam.king308@example.com, Premium ,Suite,2025-01-10,Active,Renewed,Tina Brooks
+MEM0309,Sofia,Thomas,sofia.thomas309@example.com,Corporate,Sideline,2023-05-05,Active,Renewed,Daniel Reyes
+MEM0310,Avery,Robinson,avery.robinson310@example.com,Corporate,Suite,2024-09-25,Active,Renewed,Maya Collins
+MEM0311,Morgan,Baker,morgan.baker311@example.com,Family,Reserved,2025-12-12,Active,Renewed,Daniel Reyes
+MEM0312,Diego,Moore,diego.moore312@example.com,Corporate,Sideline,2023-04-02,Active,Pending,Daniel Reyes
+MEM0313,Darius,ALLEN,darius.allen313@example.com,Individual,Sideline,2023-07-30,Active,Pending,Maya Collins
+MEM0314,Nia,Campbell,nia.campbell314@example.com,Family,Reserved,2025-08-18,Active,Renewed,Tina Brooks
+MEM0315,Maya,HILL,maya.hill315@example.com,Family,Reserved,2024-04-10,Active,Pending,Daniel Reyes
+MEM0316,Logan,Mitchell,logan.mitchell316@example.com,Supporters Club,General Admission,2024-04-21,Active,Renewed,Daniel Reyes
+MEM0317,Javier,Gonzalez,javier.gonzalez317@example.com,Family,Sideline,2022-09-28,Active,Renewed,Jared Lindsey
+MEM0318,Olivia,King,olivia.king318@example.com,Family,Sideline,2022-08-29,Active,Renewed,Jared Lindsey
+MEM0319,Nia,Scott,nia.scott319@example.com,Individual,General Admission,2023-04-15,Active,Pending,Tina Brooks
+MEM0320,Aaliyah,Carter,aaliyah.carter320@example.com,Premium,Premium Deck,2025-05-10,Active,Renewed,Daniel Reyes
+MEM0321,Miguel,carter,miguel.carter321@example.com,Individual,General Admission,2022-11-13,Active,Renewed,Tina Brooks
+MEM0322,Liam,Scott,liam.scott322@example.com,Corporate,Sideline,2024-01-29,Active,Renewed,Daniel Reyes
+MEM0323,Malik,Nguyen,malik.nguyen323@example.com,Individual,General Admission,2022-11-28,Active,Renewed,Jared Lindsey
+MEM0324,Elijah,Torres,elijah.torres324@example.com,Family,Reserved,2025-05-14,Active,Renewed,Tina Brooks
+MEM0325,Miles,Miller,miles.miller325@example.com,Family,Reserved,2022-12-25,Active,Pending,Tina Brooks
+MEM0326,brianna,Wright,brianna.wright326@example.com,Individual,General Admission,2022-01-01,Active,Renewed,Maya Collins
+MEM0327,Sofia,white,sofia.white327@example.com,Family,Reserved,2025-02-19,Active,Renewed,Daniel Reyes
+MEM0328,Marcus,Thomas,marcus.thomas328@example.com,Individual,Premium Deck,2023-08-26,Active,Renewed,Chris Alvarez
+MEM0329,Mia,Moore,mia.moore329@example.com,Supporters Club,Reserved,2024-07-28,Active,Renewed,Tina Brooks
+MEM0330,Mariana,Rodriguez,mariana.rodriguez330@example.com,Supporters Club,Reserved,2025-01-02,Active,Renewed,Jared Lindsey
+MEM0331,Devin,Miller,devin.miller331@example.com,Corporate,Sideline,2023-01-10,Lapsed,Not Renewed,Maya Collins
+MEM0332,Diego,Taylor,diego.taylor332@example.com,Individual,General Admission,2025-10-16,Active,Renewed,Tina Brooks
+MEM0333,Elena,Brown,elena.brown333@example.com,Corporate,Suite,2024-11-12,Active,Renewed,Chris Alvarez
+MEM0334,Avery,jones,avery.jones334@example.com,Individual,Reserved,2022-09-04,Active,Pending,Daniel Reyes
+MEM0335,Jordan,Hall,jordan.hall335@example.com,Individual,Reserved,2025-06-09,Lapsed,Not Renewed,Chris Alvarez
+MEM0336,Skyler,Ramirez,skyler.ramirez336@example.com,Individual,Reserved,2022-07-24,Active,Renewed,Chris Alvarez
+MEM0337,Liam,Sanchez,liam.sanchez337@example.com,PREMIUM,Sideline,2025-07-15,Active,Pending,Daniel Reyes
+MEM0338,Daniela,Lee,daniela.lee338@example.com,Individual,General Admission,2022-07-17,Lapsed,Not Renewed,Tina Brooks
+MEM0339,Miles,Torres,miles.torres339@example.com,Premium,Premium Deck,2025-08-23,Active,Renewed,Daniel Reyes
+MEM0340,Darius,Perez,darius.perez340@example.com,Family,General Admission,2022-12-10,Active,Renewed,Chris Alvarez
+MEM0341,Sofia,Garcia,sofia.garcia341@example.com,Individual,Reserved,2024-01-14,Active,Pending,Daniel Reyes
+MEM0342,Quinn,Gonzalez,quinn.gonzalez342@example.com,Individual,Reserved,2022-07-15,Active,Renewed,Jared Lindsey
+MEM0343,Alex,Williams,alex.williams343@example.com,Supporters Club,General Admission,2023-04-15,Active,Renewed,Maya Collins
+MEM0344,Avery,MARTINEZ,avery.martinez344@example.com,Premium,Premium Deck,2025-01-12,Active,Renewed,Chris Alvarez
+MEM0345,Ava,Rivera,ava.rivera345@example.com,Individual,General Admission,2023-12-13,Active,Renewed,Tina Brooks
+MEM0346,Isabella,lee,isabella.lee346@example.com,Individual,Sideline,2022-01-18,Active,Renewed,Tina Brooks
+MEM0347,Jordan,gomez,jordan.gomez347@example.com,Supporters Club,General Admission,2022-12-01,Active,Renewed,Tina Brooks
+MEM0348,Casey,Lewis,casey.lewis348@example.com,Premium,Premium Deck,2023-07-05,Active,Renewed,Tina Brooks
+MEM0349,Avery,Martin,avery.martin349@example.com,Family,Reserved,2022-02-15,Active,Renewed,Maya Collins
+MEM0350,avery,campbell,avery.campbell350@example.com,Supporters Club,General Admission,2024-01-31,Active,Renewed,Tina Brooks
+MEM0351,Casey,Roberts,casey.roberts351@example.com,Corporate,Sideline,2022-01-26,Active,Pending,Jared Lindsey
+MEM0352,Dante,Gomez,dante.gomez352@example.com,Supporters Club,Reserved,2024-03-07,Active,Renewed,Chris Alvarez
+MEM0353,Luis,Brown,luis.brown353@example.com,Supporters Club,General Admission,2022-08-20,Active,Renewed,Maya Collins
+MEM0354,Quinn,Jackson,quinn.jackson354@example.com,Corporate,Sideline,2022-07-03,Active,Renewed,Maya Collins
+MEM0355,Simone,Thompson,simone.thompson355@example.com,Family,Reserved,2023-04-22,Active,Renewed,Chris Alvarez
+MEM0356,Mateo,White,mateo.white356@example.com,Supporters Club,Reserved,2024-06-15,Active,Renewed,Daniel Reyes
+MEM0357,Reese,Nguyen,reese.nguyen357@example.com,Individual,Reserved,2022-11-14,Active,Renewed,Tina Brooks
+MEM0358,MILES,Walker,miles.walker358@example.com, Individual ,General Admission,2023-05-05,Active,Renewed,Chris Alvarez
+MEM0359,Elena,Sanchez,elena.sanchez359@example.com,Premium,Sideline,2025-09-11,Active,Renewed,Jared Lindsey
+MEM0360,Jamie,Brown,jamie.brown360@example.com,Family,General Admission,2023-06-09,Lapsed,Not Renewed,Jared Lindsey
+MEM0361,Riley,Johnson,riley.johnson361@example.com,Individual,Reserved,2024-05-01,Active,Renewed,Chris Alvarez
+MEM0362,Simone,Jackson,simone.jackson362@example.com,Premium,Premium Deck,2024-02-29,Active,Renewed,Maya Collins
+MEM0363,Maya,Adams,maya.adams363@example.com,Family,Sideline,2024-05-24,Active,Renewed,Jared Lindsey
+MEM0364,Sofia,King,sofia.king364@example.com,Family,Reserved,2024-02-01,Active,Renewed,Tina Brooks
+MEM0365,Luis,Perez,luis.perez365@example.com,Premium,Premium Deck,2024-03-24,Active,Renewed,Jared Lindsey
+MEM0366,Nia,Williams,nia.williams366@example.com,Premium,Suite,2025-11-13,Active,Renewed,Chris Alvarez
+MEM0367,maya,Nguyen,maya.nguyen367@example.com,Supporters Club,General Admission,2022-07-08,Active,Renewed,Daniel Reyes
+MEM0368,Luis,Garcia,luis.garcia368@example.com,Individual,Sideline,2023-09-08,Active,Renewed,Jared Lindsey
+MEM0369,Casey,Gomez,casey.gomez369@example.com,Premium,Sideline,2025-08-29,Active,Renewed,Daniel Reyes
+MEM0370,Tiana,Sanchez,tiana.sanchez370@example.com,Supporters Club,General Admission,2024-03-15,Active,Renewed,Tina Brooks
+MEM0371,Casey,Thomas,casey.thomas371@example.com,Premium,Sideline,2024-03-27,Active,Renewed,Daniel Reyes
+MEM0372,Mateo,Martinez,mateo.martinez372@example.com,Individual,Reserved,2023-06-30,Lapsed,Not Renewed,Tina Brooks
+MEM0373,Casey,Rodriguez,casey.rodriguez373@example.com, Individual ,Sideline,2025-06-16,Active,Pending,Tina Brooks
+MEM0374,Emma,Thomas,emma.thomas374@example.com,Corporate,Premium Deck,2023-08-13,Active,Renewed,Jared Lindsey
+MEM0375,Malik,Robinson,malik.robinson375@example.com,Individual,Sideline,2022-10-17,Active,Renewed,Jared Lindsey
+MEM0376,Ana,Brown,ana.brown376@example.com,Individual,Sideline,2025-09-14,Lapsed,Not Renewed,Chris Alvarez
+MEM0377,MILES,Davis,miles.davis377@example.com,Corporate,Suite,2023-10-09,Active,Renewed,Tina Brooks
+MEM0378,Jamie,wilson,jamie.wilson378@example.com,Premium,Premium Deck,2022-11-18,Active,Renewed,Jared Lindsey
+MEM0379,Tiana,Lee,tiana.lee379@example.com,Individual,General Admission,2022-03-02,Lapsed,Not Renewed,Daniel Reyes
+MEM0380,Elijah,Clark,elijah.clark380@example.com,Supporters Club,General Admission,2022-11-09,Active,Renewed,Tina Brooks
+MEM0381,Elijah,Robinson,elijah.robinson381@example.com,Supporters Club,Reserved,2024-12-08,Active,Renewed,Maya Collins
+MEM0382,Javier,Hernandez,javier.hernandez382@example.com,Individual,Sideline,2022-10-26,Active,Renewed,Jared Lindsey
+MEM0383,Camila,Ramirez,camila.ramirez383@example.com,Premium,Suite,2022-02-23,Active,Renewed,Daniel Reyes
+MEM0384,Simone,THOMAS,simone.thomas384@example.com,Corporate,Premium Deck,2024-08-18,Lapsed,Not Renewed,Chris Alvarez
+MEM0385,Mariana,Martinez,mariana.martinez385@example.com,Family,Reserved,2023-02-20,Active,Renewed,Maya Collins
+MEM0386,Isabella,Green,isabella.green386@example.com,Family,General Admission,2023-10-03,Active,Renewed,Tina Brooks
+MEM0387,Nia,Scott,nia.scott387@example.com,Corporate,Suite,2024-11-28,Active,Renewed,Daniel Reyes
+MEM0388,Natalia,Sanchez,natalia.sanchez388@example.com,Individual,Reserved,2024-05-15,Active,Renewed,Chris Alvarez
+MEM0389,Ana,Hernandez,ana.hernandez389@example.com,Corporate,Sideline,2024-03-16,Active,Renewed,Tina Brooks
+MEM0390,Lucia,Hill,lucia.hill390@example.com,Individual,General Admission,2022-09-11,Active,Renewed,Jared Lindsey
+MEM0391,Miles,Miller,miles.miller391@example.com,Family,Reserved,2023-11-18,Active,Pending,Daniel Reyes
+MEM0392,Quinn,Hernandez,quinn.hernandez392@example.com,Premium,Suite,2022-09-27,Active,Renewed,Maya Collins
+MEM0393,Jordan,Walker,jordan.walker393@example.com,Family,General Admission,2024-06-23,Lapsed,Not Renewed,Jared Lindsey
+MEM0394,Logan,Torres,logan.torres394@example.com,Corporate,Sideline,2022-03-08,Active,Renewed,Daniel Reyes
+MEM0395,Olivia,Miller,olivia.miller395@example.com,Premium,Premium Deck,2022-12-30,Active,Renewed,Tina Brooks
+MEM0396,Morgan,Miller,morgan.miller396@example.com,Premium,Premium Deck,2022-09-07,Active,Renewed,Chris Alvarez
+MEM0397,Skyler,Rivera,skyler.rivera397@example.com,Individual,General Admission,2025-12-18,Active,Pending,Chris Alvarez
+MEM0398,Andre,Wright,andre.wright398@example.com,Individual,Sideline,2025-06-02,Active,Renewed,Maya Collins
+MEM0399,JORDAN,Rodriguez,jordan.rodriguez399@example.com,Corporate,Suite,2023-11-15,Active,Renewed,Chris Alvarez
+MEM0400,Jordan,Adams,jordan.adams400@example.com,Individual,Reserved,2023-12-01,Active,Pending,Tina Brooks
+MEM0401,Taylor,Gonzalez,taylor.gonzalez401@example.com, Premium ,Sideline,2024-08-01,Active,Renewed,Daniel Reyes
+MEM0402,Victor,Ramirez,victor.ramirez402@example.com,Supporters Club,General Admission,2023-11-11,Active,Renewed,Chris Alvarez
+MEM0403,Noah,Williams,noah.williams403@example.com,Family,Reserved,2023-09-24,Active,Renewed,Chris Alvarez
+MEM0404,Casey,Allen,casey.allen404@example.com,Corporate,Sideline,2023-02-18,Active,Renewed,Jared Lindsey
+MEM0405,Mariana,King,mariana.king405@example.com,Individual,General Admission,2024-11-23,Lapsed,Not Renewed,Maya Collins
+MEM0406,Dante,Campbell,dante.campbell406@example.com,Family,Reserved,2022-07-31,Lapsed,Not Renewed,Daniel Reyes
+MEM0407,Taylor,Nguyen,taylor.nguyen407@example.com,Premium,Sideline,2023-07-13,Active,Renewed,Maya Collins
+MEM0408,Mia,Green,mia.green408@example.com,Family,Reserved,2022-12-17,Active,Renewed,Jared Lindsey
+MEM0409,elena,Robinson,elena.robinson409@example.com,Individual,Sideline,2025-04-28,Active,Renewed,Tina Brooks
+MEM0410,Victor,Wilson,victor.wilson410@example.com,Corporate,Sideline,2025-12-01,Lapsed,Not Renewed,Tina Brooks
+MEM0411,Jasmine,Campbell,jasmine.campbell411@example.com,Family,Reserved,2025-09-24,Active,Renewed,Chris Alvarez
+MEM0412,LUCIA,Allen,lucia.allen412@example.com,Premium,Suite,2022-09-18,Active,Renewed,Daniel Reyes
+MEM0413,Oscar,Davis,oscar.davis413@example.com,Family,General Admission,2024-09-14,Active,Pending,Tina Brooks
+MEM0414,Carlos,Hill,carlos.hill414@example.com,Family,Reserved,2025-12-28,Active,Renewed,Daniel Reyes
+MEM0415,Nia,Walker,nia.walker415@example.com,Premium,Premium Deck,2024-02-16,Active,Renewed,Chris Alvarez
+MEM0416,Casey,Anderson,casey.anderson416@example.com,INDIVIDUAL,Reserved,2024-12-24,Active,Renewed,Chris Alvarez
+MEM0417,Reese,Anderson,reese.anderson417@example.com,Individual,Reserved,2023-12-07,Active,Renewed,Jared Lindsey
+MEM0418,Gabriela,Clark,gabriela.clark418@example.com, Corporate ,Premium Deck,2022-08-13,Lapsed,Not Renewed,Chris Alvarez
+MEM0419,Carlos,Hill,carlos.hill419@example.com,Premium,Premium Deck,2024-02-27,Active,Renewed,Chris Alvarez
+MEM0420,ethan,Baker,ethan.baker420@example.com,Premium,Premium Deck,2022-10-09,Active,Renewed,Tina Brooks
+MEM0421,Carlos,Flores,carlos.flores421@example.com,Premium,Suite,2022-01-16,Active,Renewed,Daniel Reyes
+MEM0422,Miguel,king,miguel.king422@example.com,INDIVIDUAL,Reserved,2025-04-03,Active,Pending,Tina Brooks
+MEM0423,Luis,Mitchell,luis.mitchell423@example.com,Supporters Club,General Admission,2025-07-15,Active,Renewed,Jared Lindsey
+MEM0424,Aaliyah,lee,aaliyah.lee424@example.com,Corporate,Premium Deck,2023-12-24,Active,Renewed,Chris Alvarez
+MEM0425,Emma,Flores,emma.flores425@example.com,Individual,General Admission,2025-07-02,Active,Renewed,Jared Lindsey
+MEM0426,Gabriela,Garcia,gabriela.garcia426@example.com, Individual ,General Admission,2025-04-26,Active,Renewed,Maya Collins
+MEM0427,Jamie,Moore,jamie.moore427@example.com,CORPORATE,Premium Deck,2025-05-04,Active,Renewed,Maya Collins
+MEM0428,Camila,Gomez,camila.gomez428@example.com,Premium,Sideline,2022-08-26,Active,Renewed,Jared Lindsey
+MEM0429,Malik,Young,malik.young429@example.com,Family,Reserved,2022-01-25,Active,Pending,Chris Alvarez
+MEM0430,Hector,Perez,hector.perez430@example.com,Supporters Club,General Admission,2023-07-13,Active,Renewed,Chris Alvarez
+MEM0431,Andre,Nelson,andre.nelson431@example.com,Family,General Admission,2023-01-04,Active,Renewed,Chris Alvarez
+MEM0432,NOAH,Garcia,noah.garcia432@example.com,Individual,Reserved,2022-02-18,Active,Renewed,Daniel Reyes
+MEM0433,Brianna,Anderson,brianna.anderson433@example.com,Family,General Admission,2025-03-05,Active,Renewed,Maya Collins
+MEM0434,Andre,Martin,andre.martin434@example.com,Supporters Club,General Admission,2023-10-25,Active,Renewed,Chris Alvarez
+MEM0435,Javier,Jones,javier.jones435@example.com,Family,Reserved,2025-06-03,Lapsed,Not Renewed,Tina Brooks
+MEM0436,Parker,Scott,parker.scott436@example.com,Family,Sideline,2023-05-29,Active,Pending,Tina Brooks
+MEM0437,JASMINE,ADAMS,jasmine.adams437@example.com,Family,Sideline,2022-01-08,Active,Renewed,Daniel Reyes
+MEM0438,Mariana,Lewis,mariana.lewis438@example.com,Corporate,Suite,2022-09-06,Active,Renewed,Daniel Reyes
+MEM0439,Elijah,Hall,elijah.hall439@example.com,Individual,Premium Deck,2023-08-17,Lapsed,Not Renewed,Maya Collins
+MEM0440,Dante,Baker,dante.baker440@example.com,Family,Reserved,2022-10-14,Active,Renewed,Jared Lindsey
+MEM0441,Aaliyah,Taylor,aaliyah.taylor441@example.com,Family,Sideline,2022-03-17,Active,Renewed,Chris Alvarez
+MEM0442,Morgan,Clark,morgan.clark442@example.com,Family,General Admission,2022-05-28,Active,Renewed,Jared Lindsey
+MEM0443,Taylor,Young,taylor.young443@example.com,PREMIUM,Premium Deck,2022-07-19,Active,Renewed,Tina Brooks
+MEM0444,Riley,Davis,riley.davis444@example.com,Corporate,Suite,2024-04-03,Active,Renewed,Chris Alvarez
+MEM0445,Elena,Martinez,elena.martinez445@example.com,Family,Sideline,2022-12-11,Active,Renewed,Chris Alvarez
+MEM0446,Emma,Hill,emma.hill446@example.com, Individual ,GA,2022-07-02,Active,Renewed,Daniel Reyes
+MEM0447,Raul,Gomez,raul.gomez447@example.com,Supporters Club,General Admission,2025-05-06,Active,Renewed,Maya Collins
+MEM0448,Casey,Adams,casey.adams448@example.com,Corporate,Premium Deck,2025-01-10,Active,Renewed,Daniel Reyes
+MEM0449,Brianna,Anderson,brianna.anderson449@example.com,Family,General Admission,2022-03-30,Lapsed,Not Renewed,Jared Lindsey
+MEM0450,Valeria,Moore,valeria.moore450@example.com,Corporate,Sideline,2024-09-20,Active,Renewed,Daniel Reyes
+MEM0451,Luis,Robinson,luis.robinson451@example.com,Family,General Admission,2024-04-24,Lapsed,Not Renewed,Maya Collins
+MEM0452,Mariana,Hill,mariana.hill452@example.com,Individual,General Admission,2025-07-18,Lapsed,Not Renewed,Chris Alvarez
+MEM0453,Avery,Brown,avery.brown453@example.com,Supporters Club,General Admission,2025-05-21,Active,Renewed,Maya Collins
+MEM0454,Simone,Lopez,simone.lopez454@example.com,Premium,Sideline,2024-08-05,Active,Renewed,Chris Alvarez
+MEM0455,Ethan,Taylor,ethan.taylor455@example.com,Family,Reserved,2022-04-01,Active,Renewed,Jared Lindsey
+MEM0456,Gabriela,Brown,gabriela.brown456@example.com,Supporters Club,Reserved,2025-11-20,Active,Renewed,Tina Brooks
+MEM0457,Devin,Taylor,devin.taylor457@example.com,Supporters Club,General admission,2024-08-07,Active,Pending,Maya Collins
+MEM0458,Oscar,HARRIS,oscar.harris458@example.com,Premium,Premium Deck,2023-08-31,Active,Renewed,Tina Brooks
+MEM0459,Simone,Scott,simone.scott459@example.com,Premium,Sideline,2024-01-16,Active,Renewed,Jared Lindsey
+MEM0460,Simone,Brown,simone.brown460@example.com,Family,Reserved,2022-08-21,Active,Renewed,Tina Brooks
+MEM0461,Ethan,Rivera,ethan.rivera461@example.com,Premium,Sideline,2023-12-09,Active,Renewed,Tina Brooks
+MEM0462,Drew,Young,drew.young462@example.com,Individual,Reserved,2022-05-15,Active,Pending,Maya Collins
+MEM0463,Casey,Clark,casey.clark463@example.com,Supporters Club,General Admission,2024-12-02,Active,Renewed,Jared Lindsey
+MEM0464,Elena,martinez,elena.martinez464@example.com, Individual ,Premium Deck,2024-11-30,Active,Renewed,Chris Alvarez
+MEM0465,Jasmine,Perez,jasmine.perez465@example.com,Individual,General Admission,2023-06-17,Active,Pending,Maya Collins
+MEM0466,Javier,Jones,javier.jones466@example.com,Individual,Premium Deck,2025-12-21,Active,Renewed,Maya Collins
+MEM0467,Isaiah,Nguyen,isaiah.nguyen467@example.com,FAMILY,Reserved,2024-02-03,Active,Renewed,Tina Brooks
+MEM0468,Malik,Rodriguez,malik.rodriguez468@example.com,Individual,General Admission,2024-11-05,Lapsed,Not Renewed,Chris Alvarez
+MEM0469,Mason,Martin,mason.martin469@example.com,Corporate,Sideline,2022-08-19,Active,Renewed,Tina Brooks
+MEM0470,Natalia,Rodriguez,natalia.rodriguez470@example.com,Supporters Club,General Admission,2023-03-31,Active,Pending,Chris Alvarez
+MEM0471,Liam,Robinson,liam.robinson471@example.com,Family,Reserved,2025-09-27,Active,Renewed,Chris Alvarez
+MEM0472,valeria,Harris,valeria.harris472@example.com,Individual,Reserved,2024-05-01,Active,Renewed,Tina Brooks
+MEM0473,Mason,Lewis,mason.lewis473@example.com,Individual,Sideline,2023-11-18,Lapsed,Not Renewed,Jared Lindsey
+MEM0474,DANTE,Miller,dante.miller474@example.com,Supporters Club,General Admission,2023-02-13,Active,Renewed,Maya Collins
+MEM0475,Daniela,Brown,daniela.brown475@example.com,Premium,Premium Deck,2023-09-07,Active,Pending,Tina Brooks
+MEM0476,Devin,ramirez,devin.ramirez476@example.com,Family,Sideline,2024-01-11,Active,Renewed,Daniel Reyes
+MEM0477,Andre,Adams,andre.adams477@example.com, Individual ,General Admission,2022-10-27,Active,Pending,Chris Alvarez
+MEM0478,Darius,Lopez,darius.lopez478@example.com,Individual,Reserved,2023-02-01,Active,Renewed,Maya Collins
+MEM0479,Quinn,Scott,quinn.scott479@example.com,Premium,Sideline,2023-12-22,Active,Renewed,Maya Collins
+MEM0480,Miles,Gomez,miles.gomez480@example.com,Family,Sideline,2025-06-10,Active,Renewed,Daniel Reyes
+MEM0481,Carlos,Roberts,carlos.roberts481@example.com, Premium ,Sideline,2022-10-12,Active,Renewed,Tina Brooks
+MEM0482,Mateo,Thompson,mateo.thompson482@example.com,Supporters Club,General Admission,2023-03-06,Active,Renewed,Maya Collins
+MEM0483,Mateo,Rodriguez,mateo.rodriguez483@example.com,Supporters Club,General Admission,2022-09-01,Active,Renewed,Chris Alvarez
+MEM0484,Jordan,Roberts,jordan.roberts484@example.com,Family,Reserved,2023-07-23,Active,Pending,Daniel Reyes
+MEM0485,Gabriela,Gomez,gabriela.gomez485@example.com, Individual ,General Admission,2023-08-01,Active,Renewed,Maya Collins
+MEM0486,Luis,Davis,luis.davis486@example.com,Supporters Club,General Admission,2023-12-28,Active,Renewed,Tina Brooks
+MEM0487,Camila,Rodriguez,camila.rodriguez487@example.com,Individual,Reserved,2022-06-18,Active,Renewed,Chris Alvarez
+MEM0488,Lucia,Flores,lucia.flores488@example.com,Individual,General Admission,2024-09-01,Active,Renewed,Chris Alvarez
+MEM0489,Daniela,Hall,daniela.hall489@example.com,Family,Premium Deck,2022-12-12,Active,Renewed,Jared Lindsey
+MEM0490,Reese,Flores,reese.flores490@example.com,Individual,General Admission,2025-08-11,Active,Pending,Tina Brooks
+MEM0491,Ava,Clark,ava.clark491@example.com,Individual,Reserved,2022-03-02,Active,Renewed,Jared Lindsey
+MEM0492,DANIELA,Hall,daniela.hall492@example.com,Premium,Sideline,2025-09-15,Active,Renewed,Daniel Reyes
+MEM0493,Reese,Martin,reese.martin493@example.com,Premium,Sideline,2024-05-31,Active,Renewed,Jared Lindsey
+MEM0494,dante,Robinson,dante.robinson494@example.com,Individual,General Admission,2026-01-05,Active,Renewed,Tina Brooks
+MEM0495,Hector,Allen,hector.allen495@example.com,Individual,General Admission,2024-02-13,Active,Pending,Daniel Reyes
+MEM0496,Devin,Perez,devin.perez496@example.com,Corporate,Suite,2024-02-19,Active,Renewed,Jared Lindsey
+MEM0497,Camila,White,camila.white497@example.com,Individual,Premium Deck,2022-12-14,Active,Renewed,Jared Lindsey
+MEM0498,Brianna,Lewis,brianna.lewis498@example.com,Individual,General Admission,2025-03-18,Lapsed,Not Renewed,Jared Lindsey
+MEM0499,Hector,Anderson,hector.anderson499@example.com,Premium,Premium Deck,2022-06-04,Active,Renewed,Daniel Reyes
+MEM0500,Malik,Nguyen,malik.nguyen500@example.com,Family,Reserved,2024-12-23,Active,Renewed,Tina Brooks
